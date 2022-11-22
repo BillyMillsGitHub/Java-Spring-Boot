@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:8080/api/v1/person
+    username: postgres
+    password: password
+    pool-size: 30
